@@ -1,0 +1,17 @@
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\bin\Debug\net6.0-windows\OOP1.exe
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\bin\Debug\net6.0-windows\OOP1.deps.json
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\bin\Debug\net6.0-windows\OOP1.runtimeconfig.json
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\bin\Debug\net6.0-windows\OOP1.dll
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\bin\Debug\net6.0-windows\OOP1.pdb
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\OOP1.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\OOP1.Form1.resources
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\OOP1.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\OOP1.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\OOP1.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\OOP1.dll
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\refint\OOP1.dll
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\OOP1.pdb
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\OOP1.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\OOP1\OOP1\obj\Debug\net6.0-windows\ref\OOP1.dll
